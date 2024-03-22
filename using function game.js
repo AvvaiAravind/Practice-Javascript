@@ -114,7 +114,7 @@ const decideWinner = (computerChoice, playerChoice) => {
 // display result
 
 const displayResult = (result) => {
-  return alert(result);
+  alert(result);
 };
 
 // want to play again
@@ -126,7 +126,7 @@ const wantToPlayAgain = () => {
 // thanks playing game
 
 const thaksForPlaying = () => {
-  return alert("Thanks for playing the game!");
+  alert("Thanks for playing the game!");
 };
 //initialising the game
 
